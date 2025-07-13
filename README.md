@@ -61,8 +61,4 @@ The model predicts one of the trained gestures and displays:
 
 ---
 
-## 👤 Author
 
-**Shivani Kumari**  
-📫 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com)
